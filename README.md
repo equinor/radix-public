@@ -1,2 +1,2 @@
-# radix-pres
-Omnia Radix presentation
+# Omnia Radix Public Presentation
+

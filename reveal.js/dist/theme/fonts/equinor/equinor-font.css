@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Equinor-Regular;
+    src: url("./Equinor-Regular.woff2") format("woff2"),
+         url("./Equinor-Regular.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: Equinor-Bold;
+    font-weight: bold;
+    src: url("./Equinor-Bold.woff2") format("woff2"),
+         url("./Equinor-Bold.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: Equinor-Italic;
+    font-style: italic;
+    src: url("./Equinor-Italic.woff2") format("woff2"),
+         url("./Equinor-Italic.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: Equinor-Bold-Italic;
+    font-weight: bold;
+    font-style: italic;
+    src: url("./Equinor-BoldItalic.woff2") format("woff2"),
+         url("./Equinor-BoldItalic.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: Equinor-Medium;
+    src: url("./Equinor-Medium.woff2") format("woff2"),
+         url("./Equinor-Medium.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: Equinor-MediumItalic;
+    font-style: italic;
+    src: url("./Equinor-MediumItalic.woff2") format("woff2"),
+         url("./Equinor-MediumItalic.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: Equinor-Light;
+    src: url("./Equinor-Light.woff2") format("woff2"),
+         url("./Equinor-Light.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: Equinor-LightItalic;
+    font-style: italic;
+    src: url("./Equinor-LightItalic.woff2") format("woff2"),
+         url("./Equinor-LightItalic.woff") format("woff");
+  }
+  
