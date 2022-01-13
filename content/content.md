@@ -7,6 +7,14 @@ Nils Gustav Stråbø - Radix developer<br/>
 
 Note:
 - Present Øyvind and Nils
+- Brief walkthrough of agenda
+  - Equinor context
+  - Capabilities
+  - Principles
+  - Radix in Equinor IT
+  - History
+  - DEMO
+
 
 -----
 
@@ -25,6 +33,8 @@ Note:
 
 ![Radixconfg](./content/images/radixconfig.png) <!-- .element style="max-width:300px;position:absolute;bottom:0;right:0" class="fragment" data-fragment-index="1"-->
 
+Note:
+- Radix = root, base, foundation
 -----
 
 <!-- .slide: data-background-image="./content/images/equinor_logo.png" data-background-size="15%" data-background-position="right 2% top 2%"-->
@@ -58,6 +68,9 @@ TDI - Technology Digital and Innovation 1650 employees + some thousand contracto
 * Heterogenous technology stacks
 * New applications created frequently
 
+Note:
+  - 3000 people on Omnia Radix Slack channel
+  - 2300 completed Software Developer Onboarding
 ---
 
 ## Information Technology direction
@@ -79,11 +92,11 @@ TDI - Technology Digital and Innovation 1650 employees + some thousand contracto
 <!-- .slide: data-background-image="./content/images/radix.png" data-background-opacity="0.1" data-background-color="white" style="color: #132634" -->
 ## Platform characteristics
 * Built on Kubernetes
+* Hide complexity
 * CI/CD
 * Metrics and monitoring
 * Automation
 * Dockerfile as interface
-* Hide complexity
 * Open source
 
 -----
@@ -97,19 +110,28 @@ TDI - Technology Digital and Innovation 1650 employees + some thousand contracto
 ## Building community
   * By being transparent, sharing, providing support
   * Users are invited to engage and participate
-  * Community becomes a support muscle
+  * Community becomes a learning and support muscle
   * A tool for promoting practices and patterns
+
+Note:
+  - 450 people on Omnia Radix Slack channel
 ---
 <!-- .slide: data-background-image="./content/images/community.svg" data-background-opacity="0.1" data-background-color="white" style="color: #132634" data-background-position="left"-->
+## Product mindset
+  * Focus on users, understand their needs
+  * Emphasis on user (developer) experience
+  * Close user collaboration
+---
+<!-- .slide: data-background-image="./content/images/community.svg" data-background-opacity="0.1" data-background-color="white" style="color: #132634" data-background-position="right"-->
 ## Iterative approach
   * Deliver in iterations
   * Small & frequent increments
   * Listen to feedback
-  * Close user collaboration
 ---
 <!-- .slide: data-background-image="./content/images/board.jpeg" data-background-opacity="0.2" data-background-color="white" style="color: #132634" -->
 ## Sustainable codebase
   * No lack of ideas for new features 
+  * Limited feature set
   * Platform will not solve it all
   * Build on open source components
   * Code is preferably "glue"
