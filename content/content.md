@@ -55,8 +55,8 @@ TDI - Technology Digital and Innovation 1650 employees + some thousand contracto
 
 * Large community
 * Spread in team sizes
-* Heterogenous technology stack
-* New development
+* Heterogenous technology stacks
+* New applications created frequently
 
 ---
 
@@ -64,24 +64,26 @@ TDI - Technology Digital and Innovation 1650 employees + some thousand contracto
 
 ![Technology direction](./content/images/tech-direction.png)
 
+---
+
+* [Open Source Strategy](https://opensource.equinor.com)
+* [API Strategy](https://github.com/equinor/api-strategy/blob/master/docs/strategy.md)
+
 -----
 <!-- .slide: data-background-image="./content/images/equinor_logo.png" data-background-size="15%" data-background-position="right 2% top 2%"-->
 
 # Context => Radix
 
----
-## Contextual topics
-* Cloud native
-* Diverse technology set
-* Small teams
 
 ---
+<!-- .slide: data-background-image="./content/images/radix.png" data-background-opacity="0.1" data-background-color="white" style="color: #132634" -->
 ## Platform characteristics
-* Kubernetes
+* Built on Kubernetes
 * CI/CD
 * Metrics and monitoring
+* Automation
 * Dockerfile as interface
-* Platform hides complexity
+* Hide complexity
 * Open source
 
 -----
@@ -92,7 +94,7 @@ TDI - Technology Digital and Innovation 1650 employees + some thousand contracto
 ---
 <!-- .slide: data-background-image="./content/images/community2.png" data-background-opacity="0.2" data-background-color="white" style="color: #132634" -->
 
-## Build community
+## Building community
   * By being transparent, sharing, providing support
   * Users are invited to engage and participate
   * Community becomes a support muscle
@@ -101,17 +103,18 @@ TDI - Technology Digital and Innovation 1650 employees + some thousand contracto
 <!-- .slide: data-background-image="./content/images/community.svg" data-background-opacity="0.1" data-background-color="white" style="color: #132634" data-background-position="left"-->
 ## Iterative approach
   * Deliver in iterations
+  * Small & frequent increments
   * Listen to feedback
   * Close user collaboration
 ---
-<!-- .slide: data-background-image="./content/images/board.jpeg" data-background-opacity="0.1" data-background-color="white" style="color: #132634" -->
-## Limited feature set
-  * Maintain a sustainable codebase
+<!-- .slide: data-background-image="./content/images/board.jpeg" data-background-opacity="0.2" data-background-color="white" style="color: #132634" -->
+## Sustainable codebase
   * No lack of ideas for new features 
-  * No data storage or auth
+  * Platform will not solve it all
+  * Build on open source components
+  * Code is preferably "glue"
 
 -----
-
 <!-- .slide: data-background-image="./content/images/equinor_logo.png" data-background-size="15%" data-background-position="right 2% top 2%"-->
 
 # Radix in Equinor IT
@@ -133,10 +136,10 @@ Equinor’s cloud platform and cloud journey
 
 # The Radix journey
 
-* Initial development started January 2018
+* Development started January 2018
 * Platform developed through experimentation and user collaboration
 * Production ready: March 2019
-* Today: 140 applications in production cluster
+* Today: 142 applications in production cluster
 
 -----
 
