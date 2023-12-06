@@ -8,4 +8,5 @@ This repo was archived because it is no longer in use, but the presentation migh
 
 Created with [Reveal.js](https://revealjs.com/)
 
-Pages are hosted at: https://equinor.github.io/radix-public/
+Pages where previously hosted at: https://equinor.github.io/radix-public/
+The site was discontinued when the repo was archived
